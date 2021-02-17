@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="user_name">User</string>
+    <string name="bmi_status">Unknown</string>
+</resources>
